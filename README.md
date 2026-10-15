@@ -5,8 +5,8 @@
 
 ## 📬 Contact
 
-- 💼 **LinkedIn:** [Connect with me](www.linkedin.com/in/shir-yitzhak)
-- ✉️ **Email:** [Contact me](mailto:shiri3250@gmail.com)
+- 💼 **LinkedIn:** [Connect with me](https://www.linkedin.com/in/shir-yitzhak)
+- ✉️ **Email:** shiri3250@gmail.com
 
 ---
 
