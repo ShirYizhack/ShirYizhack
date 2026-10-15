@@ -6,7 +6,7 @@
 ## 📬 Contact
 
 - 💼 **LinkedIn:** [Connect with me](https://www.linkedin.com/in/shir-yitzhak)
-- ✉️ **Email:** shiri3250@gmail.com
+- ✉️ **Email:** `shiri3250@gmail.com`
 
 ---
 
